@@ -1,0 +1,81 @@
+cat|The cat sat on the mat.
+dog|The dog ran in the yard.
+sun|The sun is bright today.
+moon|The moon shines at night.
+hat|She wore a red hat.
+ball|He threw the ball far.
+tree|The tree is very tall.
+fish|The fish swims fast.
+bird|A bird sang loudly.
+milk|I drink milk every day.
+book|She read a book.
+pen|He used a pen.
+cup|The cup is full.
+bed|I sleep in my bed.
+toy|The toy is new.
+shoe|My shoe is dirty.
+door|Close the door.
+cake|We ate cake.
+rain|The rain fell softly.
+snow|Snow is cold.
+frog|A frog jumped.
+leaf|The leaf fell down.
+star|A star twinkles.
+duck|The duck swims.
+grass|The grass is green.
+hand|Wash your hand.
+foot|My foot hurts.
+nose|Touch your nose.
+face|Her face smiled.
+eye|I see with my eye.
+ear|My ear hears sounds.
+red|The apple is red.
+blue|The sky is blue.
+pink|She likes pink.
+big|The box is big.
+small|The ant is small.
+fast|He runs fast.
+slow|The turtle is slow.
+hot|The soup is hot.
+cold|Ice is cold.
+day|Today is a good day.
+night|The night is dark.
+up|Look up high.
+down|Sit down now.
+in|The toy is in the box.
+out|Go out to play.
+yes|She said yes.
+no|He said no.
+run|They run together.
+jump|Jump over it.
+walk|We walk home.
+play|Children play outside.
+eat|We eat lunch.
+drink|Please drink water.
+laugh|They laugh loudly.
+cry|The baby will cry.
+sleep|I sleep well.
+wake|Wake up early.
+help|Help your friend.
+love|I love my family.
+like|I like apples.
+see|I see a bird.
+hear|I hear music.
+feel|I feel happy.
+make|Make a tower.
+look|Look at this.
+find|Find the ball.
+give|Give me one.
+take|Take your bag.
+come|Come here please.
+go|Go home now.
+stop|Stop right there.
+start|Start the game.
+open|Open the book.
+close|Close the lid.
+clean|Clean your room.
+dirty|The floor is dirty.
+happy|She feels happy.
+sad|He feels sad.
+fun|The game is fun.
+kind|Be kind to others.

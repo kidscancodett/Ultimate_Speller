@@ -1,0 +1,76 @@
+apple|She ate an apple.
+banana|The banana is yellow.
+orange|An orange is sweet.
+grape|He picked a grape.
+peach|The peach was juicy.
+pear|The pear fell down.
+chair|Sit on the chair.
+table|The table is round.
+window|Open the window.
+mirror|She saw herself in the mirror.
+pencil|Sharpen the pencil.
+paper|Write on paper.
+school|School starts early.
+teacher|The teacher smiled.
+student|Each student listened.
+class|The class was quiet.
+lesson|The lesson was easy.
+story|He told a story.
+letter|Mail the letter.
+number|Write the number.
+count|Count the stars.
+shape|The shape is round.
+circle|Draw a circle.
+square|Make a square.
+corner|Stand in the corner.
+road|The road is long.
+bridge|Cross the bridge.
+river|The river flows.
+mountain|The mountain is high.
+valley|The valley is wide.
+forest|The forest is green.
+animal|The animal moved.
+farm|The farm is busy.
+tractor|The tractor is loud.
+garden|The garden grew.
+flower|The flower bloomed.
+butterfly|A butterfly flew.
+insect|The insect crawled.
+spider|A spider spun a web.
+honey|Bees make honey.
+bread|Bake fresh bread.
+cheese|The cheese melted.
+butter|Spread the butter.
+sugar|Add some sugar.
+salt|Use less salt.
+water|Drink clean water.
+juice|Pour the juice.
+breakfast|Breakfast was ready.
+lunch|Lunch was packed.
+dinner|Dinner smelled good.
+family|Family matters.
+parent|The parent waited.
+child|The child played.
+baby|The baby slept.
+friendship|Friendship is important.
+team|The team worked.
+game|The game ended.
+score|The score changed.
+win|They win often.
+lose|Sometimes you lose.
+practice|Practice helps.
+try|Try again.
+build|Build a house.
+fix|Fix the toy.
+carry|Carry the bag.
+push|Push gently.
+pull|Pull the rope.
+climb|Climb slowly.
+slide|Slide down.
+swing|Swing high.
+throw|Throw carefully.
+catch|Catch the ball.
+balance|Keep balance.
+careful|Be careful.
+safe|Stay safe.
+brave|She felt brave.

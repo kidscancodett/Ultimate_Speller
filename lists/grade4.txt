@@ -1,0 +1,89 @@
+activity|The activity was fun.
+adventure|The adventure was exciting.
+agree|I agree with you.
+ancient|They studied ancient ruins.
+appear|Stars appear at night.
+arrange|Arrange the chairs neatly.
+attention|Pay close attention.
+balance|Keep your balance.
+behavior|His behavior improved.
+belief|That belief is common.
+breathe|Remember to breathe slowly.
+calendar|Check the calendar.
+category|Sort by category.
+celebrate|They celebrate together.
+compare|Compare the two answers.
+condition|The condition improved.
+consider|Consider all options.
+continue|Continue your work.
+describe|Describe what you see.
+develop|Skills develop over time.
+distance|The distance is long.
+effect|The effect was noticeable.
+energy|The body needs energy.
+environment|Protect the environment.
+equipment|The equipment was ready.
+escape|The animal tried to escape.
+exercise|Exercise is important.
+experiment|The experiment worked.
+familiar|The place felt familiar.
+feature|This feature helps.
+freedom|They value freedom.
+function|The function failed.
+government|The government announced changes.
+history|History teaches lessons.
+identify|Identify the problem.
+improve|Practice will improve skills.
+include|Include all details.
+increase|Prices increase yearly.
+independent|She worked independent of help.
+information|Find more information.
+instruction|Follow each instruction.
+interest|He showed interest.
+invent|Someone invents new tools.
+language|Language changes over time.
+material|The material feels rough.
+measure|Measure the length.
+method|This method works.
+modern|Modern tools are helpful.
+natural|The scene looked natural.
+observe|Observe carefully.
+opinion|Everyone has an opinion.
+opposite|They stood opposite each other.
+ordinary|It seemed ordinary.
+organize|Organize your desk.
+original|The idea was original.
+participate|Participate in class.
+pattern|Notice the pattern.
+perform|They perform well.
+persuade|Try to persuade kindly.
+position|Change your position.
+predict|Predict the outcome.
+prevent|Rules prevent problems.
+process|Trust the process.
+protect|Protect your eyes.
+purpose|Know your purpose.
+recognize|I recognize that sound.
+reduce|Reduce waste.
+reflect|Reflect on learning.
+region|The region is dry.
+regular|Make regular visits.
+require|This job may require effort.
+resource|Water is a resource.
+respond|Respond politely.
+responsible|Be responsible.
+result|The result was clear.
+schedule|Follow the schedule.
+section|Read this section.
+select|Select one answer.
+similar|The results are similar.
+solution|Find a solution.
+strategy|Use a strategy.
+structure|The structure stood firm.
+suggest|I suggest trying again.
+support|Support your team.
+symbol|The flag is a symbol.
+temperature|The temperature rose.
+tradition|The tradition continues.
+transport|Transport goods safely.
+variety|A variety was offered.

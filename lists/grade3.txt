@@ -1,0 +1,85 @@
+about|Tell me about your day.
+above|The bird flew above the tree.
+across|They walked across the street.
+answer|She knew the answer.
+around|The fence goes around the yard.
+behind|The cat hid behind the couch.
+between|The park is between two houses.
+busy|The store was busy today.
+carry|Please carry the box.
+change|Change can be helpful.
+children|The children played outside.
+complete|Finish the work to complete it.
+correct|Your answer is correct.
+decide|Decide what to do next.
+different|The twins look different.
+during|He stayed quiet during class.
+early|She arrived early.
+example|The teacher gave an example.
+excited|They felt excited inside.
+explain|Explain your thinking.
+follow|Follow the rules.
+forward|Step forward slowly.
+important|This rule is important.
+inside|Stay inside today.
+instead|Choose this instead.
+learn|We learn new things.
+listen|Please listen carefully.
+maybe|Maybe it will rain.
+minute|Wait a minute.
+morning|The morning was calm.
+natural|The park looks natural.
+notice|Did you notice the sign?
+number|Pick a number.
+often|She often reads books.
+outside|Play outside later.
+pattern|The tiles form a pattern.
+person|One person waited.
+picture|The picture looks nice.
+problem|Solve the problem.
+question|Ask a question.
+remember|Remember your homework.
+sentence|Write a sentence.
+separate|Keep them separate.
+simple|The task was simple.
+special|Today feels special.
+suddenly|Suddenly it got quiet.
+surface|The surface was smooth.
+system|The system worked well.
+teacher|The teacher explained clearly.
+together|Work together as a team.
+toward|Walk toward the door.
+understand|I understand now.
+usually|She usually smiles.
+weather|The weather changed.
+whole|Eat the whole apple.
+without|Do not go without help.
+almost|Almost finished.
+better|This works better.
+bring|Bring your bag.
+build|Build a model.
+caught|He caught the ball.
+choose|Choose wisely.
+clothes|The clothes are clean.
+cover|Cover the food.
+discover|Discover something new.
+engine|The engine started.
+favorite|Blue is my favorite.
+field|The field is wide.
+future|Think about the future.
+happen|What will happen next?
+island|The island is far away.
+journey|The journey was long.
+machine|The machine stopped.
+matter|It does not matter.
+moment|Wait a moment.
+music|The music played softly.
+planet|Earth is a planet.
+present|Open the present.
+quickly|She ran quickly.
+reason|Give a reason.
+result|The result surprised us.
+shadow|A shadow followed him.
+signal|The signal was clear.
+travel|They travel often.
+village|The village was quiet.

@@ -1,0 +1,74 @@
+abstract|The idea was abstract.
+accurate|Provide accurate details.
+advocate|Advocate for fairness.
+alternative|Choose an alternative.
+ambiguous|The message was ambiguous.
+anticipate|Anticipate future needs.
+articulate|Articulate your thoughts.
+assess|Assess the situation.
+authorize|Authorize the request.
+bias|Recognize personal bias.
+capacity|The tank reached capacity.
+coherent|Write a coherent paragraph.
+collaborate|Collaborate with peers.
+compile|Compile the information.
+comprehensive|Provide a comprehensive answer.
+conceptual|Use conceptual thinking.
+constraint|Time is a constraint.
+controversy|The issue caused controversy.
+criteria|Meet all criteria.
+deduce|Deduce the meaning.
+derive|Derive results logically.
+distinct|The styles are distinct.
+diverse|The group is diverse.
+emphasis|Place emphasis on clarity.
+equivalent|The values are equivalent.
+establish|Establish clear rules.
+ethical|Make ethical choices.
+explicit|Be explicit in instructions.
+facilitate|Facilitate discussion.
+feasible|The plan is feasible.
+framework|Build a framework.
+fundamental|This skill is fundamental.
+hypothesis|Test the hypothesis.
+implement|Implement the strategy.
+implicit|The meaning was implicit.
+inevitable|Change is inevitable.
+infrastructure|Improve infrastructure systems.
+integrity|Act with integrity.
+interpretation|Consider each interpretation.
+justify|Justify your reasoning.
+legitimate|The request was legitimate.
+manipulate|Manipulate the variables.
+maximize|Maximize efficiency.
+methodology|Follow the methodology.
+mitigate|Mitigate the risk.
+notion|Challenge the notion.
+objective|Remain objective.
+optimize|Optimize performance.
+parameter|Set the parameter.
+phenomenon|Observe the phenomenon.
+precede|The warning will precede action.
+principle|Follow the principle.
+proportion|Check the proportion.
+qualitative|Use qualitative data.
+quantitative|Collect quantitative data.
+rationale|Explain the rationale.
+refine|Refine the solution.
+regulate|Regulate behavior.
+relevant|Use relevant facts.
+reliability|Ensure reliability.
+scenario|Consider the scenario.
+significance|Understand the significance.
+simulate|Simulate the process.
+specify|Specify requirements.
+stability|Maintain stability.
+strategy|Develop a strategy.
+subsequent|Subsequent steps follow.
+synthesize|Synthesize information.
+systematic|Use a systematic approach.
+theoretical|The model is theoretical.
+threshold|Cross the threshold.
+validity|Confirm validity.
+variance|Measure variance.
+viable|The option is viable.

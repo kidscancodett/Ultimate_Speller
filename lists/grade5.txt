@@ -1,0 +1,74 @@
+ability|She has the ability to learn quickly.
+absorb|Plants absorb water from soil.
+achieve|Work hard to achieve goals.
+adjust|Adjust the volume carefully.
+analyze|Analyze the results closely.
+approach|Try a new approach.
+argument|The argument remained calm.
+assume|Do not assume the answer.
+benefit|Exercise has health benefit.
+challenge|The task was a challenge.
+communicate|Communicate your ideas clearly.
+complex|The puzzle was complex.
+concentrate|Concentrate on the task.
+conclude|Conclude after reviewing facts.
+confidence|Confidence grows with practice.
+conflict|Resolve the conflict peacefully.
+consequence|Every action has consequence.
+consistent|Be consistent with rules.
+construct|Construct a strong model.
+contribute|Contribute to the project.
+coordinate|Coordinate the group effort.
+creativity|Creativity inspires solutions.
+critical|Think in a critical way.
+demonstrate|Demonstrate the skill.
+determine|Determine the cause.
+developing|The idea is developing well.
+dimension|Measure each dimension.
+discussion|The discussion lasted long.
+efficient|This method is efficient.
+element|Oxygen is an element.
+encourage|Encourage positive behavior.
+evaluate|Evaluate the outcome.
+evidence|Evidence supports the claim.
+expand|Expand the explanation.
+factor|Time is a factor.
+flexible|Stay flexible during change.
+formula|Use the correct formula.
+foundation|Build a strong foundation.
+generate|Generate new ideas.
+impact|The impact was significant.
+indicate|Results indicate success.
+influence|Parents influence children.
+initial|The initial step matters.
+interpret|Interpret the data.
+justify|Justify your answer.
+logical|Use logical thinking.
+maintain|Maintain good habits.
+majority|The majority agreed.
+methodical|Work in a methodical way.
+modify|Modify the plan slightly.
+neutral|Remain neutral in debate.
+objective|The objective was clear.
+option|Choose one option.
+outcome|The outcome surprised us.
+perspective|See another perspective.
+predictable|The pattern was predictable.
+priority|Safety is a priority.
+procession|The procession moved slowly.
+progress|Track your progress.
+reaction|The reaction was quick.
+reliable|The source is reliable.
+represent|Charts represent data.
+resolve|Resolve issues calmly.
+resourceful|Be resourceful when needed.
+responding|She is responding well.
+significant|The change was significant.
+structure|The structure held firm.
+sufficient|This amount is sufficient.
+theory|The theory was tested.
+transfer|Transfer the files.
+transform|Transform ideas into action.
+unique|Each design is unique.
+valid|The answer is valid.
+variable|Control the variable.
