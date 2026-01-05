@@ -22,16 +22,9 @@ WORKDIR /app
 # Copy requirements first
 COPY requirements.txt .
 
-# Debug: Show what's in requirements.txt
-RUN cat requirements.txt
-
-# Install Python dependencies
+# Install pip packages directly (bypass potential cache issues)
 RUN pip install --no-cache-dir --upgrade pip && \
-    pip install --no-cache-dir -r requirements.txt
-
-# Verify installations
-RUN python -c "import edge_tts; print('edge_tts version:', edge_tts.__version__)" && \
-    python -c "import pygame; print('pygame version:', pygame.version.ver)"
+    pip install --no-cache-dir streamlit>=1.28.0 edge-tts>=6.1.9 pygame>=2.5.0
 
 # Copy application code
 COPY . .
