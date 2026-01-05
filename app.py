@@ -1,4 +1,25 @@
+import sys
+import subprocess
+import os
+
+# Debug: Check what's installed
+print("Python version:", sys.version)
+print("Current directory:", os.getcwd())
+print("Files in directory:", os.listdir('.'))
+
+# Try to list installed packages
+try:
+    result = subprocess.run([sys.executable, "-m", "pip", "list"], 
+                          capture_output=True, text=True)
+    print("Installed packages:")
+    print(result.stdout[:500])  # First 500 chars
+except Exception as e:
+    print("Error checking packages:", e)
+
+# Rest of your imports...
 import streamlit as st
+import edge_tts  # This should now work
+# ... rest of your codeimport streamlit as st
 import edge_tts
 import asyncio
 import pygame
