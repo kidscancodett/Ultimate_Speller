@@ -1,0 +1,56 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary audio files - CACHE ONLY, keep directory structure
+tts_cache/*.mp3
+tts_cache/cache_info.json
+*.mp3
+*.wav
+
+# Logs
+*.log
+npm-debug.log*
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Hugging Face
+.hf/
+
+# IMPORTANT: Keep these files and directories
+!lists/
+!requirements.txt
+!app.py
+!Dockerfile
+!README.md
+!.hfhub/
+!.hfhub/*.yaml
+!.hfhub/*.yml
