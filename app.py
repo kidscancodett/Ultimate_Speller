@@ -1,4 +1,22 @@
+import os
 import sys
+
+# Debug: Check if requirements.txt exists and its contents
+print("Current directory:", os.getcwd())
+print("Files:", os.listdir('.'))
+
+try:
+    with open('requirements.txt', 'r') as f:
+        content = f.read()
+        print("requirements.txt content:")
+        print(content)
+except Exception as e:
+    print(f"Error reading requirements.txt: {e}")
+
+# Then your existing imports
+import streamlit as st
+import edge_tts
+# ... rest of your codeimport sys
 import subprocess
 import os
 
