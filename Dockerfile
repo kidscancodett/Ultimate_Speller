@@ -16,12 +16,15 @@ RUN apt-get update && apt-get install -y \
     libfreetype6-dev \
     libsndfile1 \
     wget \
+    curl \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
-# Install Python dependencies
+# Copy requirements first for better caching
 COPY requirements.txt .
+
+# Install Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy application code
@@ -32,5 +35,5 @@ RUN mkdir -p lists tts_cache
 
 EXPOSE 7860
 
-# Streamlit-specific command for Hugging Face Spaces
-CMD ["streamlit", "run", "app.py", "--server.port=7860", "--server.address=0.0.0.0", "--server.enableCORS=false", "--server.enableXsrfProtection=false"]
+# Streamlit command for Hugging Face Spaces
+CMD ["streamlit", "run", "app.py", "--server.port=7860", "--server.address=0.0.0.0"]
